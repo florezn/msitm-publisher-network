@@ -1,4 +1,4 @@
-# msitm-publisher-network
+# Understanding Book Publisher Competition: a Bi-partite Network Approach
 
 The purpose of this project was to infer the competitive market characteristics of the book publisher industry by leveraging the vast repository of book data available through Goodreads. Using Goodreads data, we connected publishers to the topics their books are about using LDA topic modeling on book descriptions. We then performed bi-partite network analysis to infer competitive network characteristics. Refer to the Final Presentation for an overview of project, including methods, and the Notebook for code.
 
